@@ -1,0 +1,11 @@
+@import "//at.alicdn.com/t/c/font_3752942_e7wqd2hrke.css";
+
+.iconfont {
+font-family: "iconfont" !important;
+font-size: 3em;
+/* 可以定义图标大小 */
+font-style: normal;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
